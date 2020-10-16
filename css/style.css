@@ -1,0 +1,90 @@
+body {
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#formas_pagamento {
+    color: #ff0000;   
+    text-align: center;
+}
+
+.main {
+    text-align: center;
+    font-size: larger;
+}
+
+.menu {
+    background-color: #ff0000;
+    border-radius: 20px;
+    width: 100%;
+    
+}
+
+.menu a {  
+    color: #ffffff;   
+    text-decoration: none;
+   
+    width: 100%;
+    padding-left: 50px;
+    vertical-align: middle;
+    
+}
+
+.descricao {
+    color: #000000;
+}
+
+.preco {
+    color: #ff0000;
+}
+
+.categorias {
+    display: inline-block;
+    width: 15%;
+    
+}
+
+.produtos {
+    margin-top:0;
+    padding-top:0%;
+    margin-left: 100px;
+    text-align: center;
+    
+    
+}
+
+.box_produto {
+    display: inline-block;
+    width: 300px;
+    padding: 3px;
+    margin-left: 15px;  
+ 
+    
+}
+   
+
+#rodapé {
+    text-align: center;
+    font-weight: bold;
+}    
+
+.email_tel{ 
+   margin-left: 10px;
+}
+
+.mensagem {
+    text-align: center;
+    
+}
+
+.lojas {
+    display: inline-block;
+}
+
+.endereco {
+    display: inline-block;
+    width: 300px;
+    margin-left: 65%;
+    padding: 1%;
+    text-align: center;
+}
